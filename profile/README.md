@@ -3,9 +3,15 @@ builds [developer tools](https://evilmartians.com/oss), and creates [open source
 
 Clients trust us to be the core technical team behind their startups, delivering all elements of successful product work: user interface design backed by analytics, agile software development, infrastructure administration, and service reliability. We pay extra attention to mentoring, making sure that the practices we bring in are adopted by the internal team before our collaboration is over.
 
+**Our Open Source**
+
+Open source is a defining part of Martian culture. We’ve created dozens of libraries and utilities for developers in diverse programming language communities, as well as tools and plugins for UI designers.
+
+**Be sure to check out the full list of our Open Source projects at [**evilmartians.com/opensource**](https://evilmartians.com/opensource)!**
+
 See more at [evilmartians.com](https://evilmartians.com) and check out our blog, [Martian Chronicles](https://evilmartians.com/chronicles).
 
-**Some of our products:**
+**Some of our key products:**
 
 |   | Product |
 | ------------- | ------------- |
@@ -15,9 +21,3 @@ See more at [evilmartians.com](https://evilmartians.com) and check out our blog,
 | ![Logux](profile/logux.svg) | [**Logux**](https://github.com/logux) is a new way to connect clients (web and mobile apps) and servers. Instead of sending HTTP requests (AJAX/REST), it synchronizes the operations log between client, server, and other clients through WebSockets. Building on top of CRDT (conflict-free replicated data type) ideas, it features live updates, an optimistic UI, and is offline-first by design. |
 
 See more at [**evilmartians.com/products**](https://evilmartians.com/products).
-
-**Our Open Source:**
-
-Open source is a defining part of Martian culture. We’ve created dozens of libraries and utilities for developers in diverse programming language communities, as well as tools and plugins for UI designers.
-
-Be sure to check out the full list of our Open Source projects at [**evilmartians.com/opensource**](https://evilmartians.com/opensource).
